@@ -5,5 +5,5 @@ The admin also has dashboard showing stastistic of reults of students. The syste
 The system has user friendly UI and UX for whole system with home, about, admin & student page 
 #  Collaborators :
     1] Isha Kulkarni (UI/UX Designer) - https://github.com/ishakulkarni23
-    2] Neha Deshpande (UI/UI Designer) -
-    3] Niranjan Dangi (UI/UX Designer) -
+    2] Neha Deshpande (UI/UI Designer) - https://github.com/NehaManishDeshpande
+    3] Niranjan Dangi (UI/UX Designer) - https://github.com/NiranjanDangi
